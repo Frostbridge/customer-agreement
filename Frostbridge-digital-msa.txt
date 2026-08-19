@@ -1,7 +1,7 @@
 ﻿Frostbridge AI | Legal Terms
 Frostbridge AI | Master SaaS Agreement
 MASTER SAAS AGREEMENT
-Click-Through Terms for Frostbridge AI Security Platform | Standard Online Terms | Version 1.2 | Last Updated: August 7, 2026
+Click-Through Terms for Frostbridge AI Security Platform | Standard Online Terms | Version 1.2 | Last Updated: August 19, 2026
 This Master SaaS Agreement (the "Agreement") is entered into by and between Frostbridge AI, Inc., a Delaware corporation with offices at 202 S Parker St, Tampa, FL 33606 ("Frostbridge," "Company," "we," "us," or "our"), and the company, organization, or other legal entity on whose behalf the Services are accessed or ordered ("Customer," "you," or "your"). This Agreement governs access to and use of the Frostbridge AI security platform, including related software, hosted services, APIs, dashboards, endpoint agents, connectors, documentation, support, and professional services, if any (collectively, the "Services").
 By clicking "I Agree," creating an account, selecting a plan, adding seats, providing payment details, connecting a Customer environment, installing an agent, or otherwise accessing or using the Services, the person taking that action represents that they have authority to bind Customer and agrees to this Agreement on Customer's behalf.
 1. Definitions
